@@ -1,13 +1,13 @@
-name = "pb"
+name = "pb-pastekan-paste"
 type = "javascript"
 
-account_id = "1ddaf86dbca12e8f4fcaa76f32bb707d"
+account_id = "4f2534559b938e661168af847419a63e"
 workers_dev = true
-zone_id = "2fc9ecfb4871050ddd87299674f3039c"
+zone_id = "3f3844b6e82b8efa1080436ffcd07e94"
 webpack_config = "webpack.config.js"
 
 kv_namespaces = [
-  { binding = "PB", id = "cc398e983a234aa19de5ea6af571a483", preview_id = "f56ae0043abd4bb4ab61c52071bd9c7f" },
+  { binding = "paste", id = "0ac85811a1b1437e924b94eb029abca6", preview_id = "3cb479362cec4314b6bfb5181aad3309" },
 ]
 
 [build]
